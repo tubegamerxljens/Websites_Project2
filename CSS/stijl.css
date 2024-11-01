@@ -1,0 +1,4 @@
+#hobbyCarousel .carousel-item img {
+  height: 300px;
+  object-fit: cover;
+}
